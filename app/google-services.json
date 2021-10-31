@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "476132430552",
+    "project_id": "vanguard-bear",
+    "storage_bucket": "vanguard-bear.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476132430552:android:65750bc0de0a094dd2fdad",
+        "android_client_info": {
+          "package_name": "gg.mic.vanguard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476132430552-hi47o279ae5dfo76v6vm4ju7i9o9sbj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx9_E9xY9dGpxJcjDe4AMEoH5VzGqyRUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476132430552-hi47o279ae5dfo76v6vm4ju7i9o9sbj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
