@@ -1,5 +1,5 @@
 # flaurapedia
-android application for plant identification and blogging
+**Description*** android application for plant identification and blogging
 
 **Notice**
 This app is not on GitHub for distribution but rather for references and storage. Some lines were altered for anonimity and prevent database credential leaks. 
