@@ -26,7 +26,7 @@ public class Handler {
     public static final int REQUEST_IMAGE = 100;
     public static final int REQUEST_CAMERA_ROLL = 3645;
     public static final int REQUEST_PERMISSION = 300;
-    public static final String DEV_INFORMATAION = "Michael Liu";
+    public static final String DEV_INFORMATAION = "M****** ***";
 
     public static String SESSION_UUID;
     public static FirebaseAuth fAuth;
