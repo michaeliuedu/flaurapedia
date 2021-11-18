@@ -1,4 +1,4 @@
-# flaurapedia
+# Flaurapedia - Android Firebase and TfLite Application
 **Description:** An android application for plant identification and blogging
 
 **Notice:**
