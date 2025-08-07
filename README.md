@@ -18,5 +18,5 @@ This app is not on GitHub for distribution but rather for references and storage
 }
 ```
 
-**CONGRESSIONAL APP CHALLENGE LINK**
+**Congressoinal App Challenge Link**
 https://www.congressionalappchallenge.us/21-tx24/
